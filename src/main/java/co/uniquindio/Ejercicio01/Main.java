@@ -1,4 +1,4 @@
-package co.uniquindio.Ejercicio1;
+package co.uniquindio.Ejercicio01;
 import java.util.ArrayList;
 import java.util.Collections;
 

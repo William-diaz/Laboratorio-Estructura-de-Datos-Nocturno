@@ -1,4 +1,4 @@
-package co.uniquindio.Ejercicio1;
+package co.uniquindio.Ejercicio01;
 
 //Se crea la clase persona
 public class Persona implements Comparable<Persona> {
