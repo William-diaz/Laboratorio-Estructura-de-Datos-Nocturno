@@ -1,0 +1,15 @@
+package co.uniquindio.Ejercicio12;
+
+public class Nodo {
+
+    int valor;
+    Nodo izquierdo;
+    Nodo derecho;
+
+    // Un constructor
+    public Nodo(int valor) {
+        this.valor = valor;
+        this.izquierdo = null;
+        this.derecho = null;
+    }
+}
